@@ -1,5 +1,5 @@
 # Carlo Santagiustina website 
-Created using the Jekyll template* by [Dean Attali](https://deanattali.com)*
+Created using the Jekyll template by [Dean Attali](https://deanattali.com)*
 
 
 ### Table of contents
