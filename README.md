@@ -1,4 +1,5 @@
-# Carlo Santagiustina website - created using the beautiful Jekyll template* Copyright 2018 [Dean Attali](https://deanattali.com)*
+# Carlo Santagiustina website 
+Created using the beautiful Jekyll template* Copyright 2018 [Dean Attali](https://deanattali.com)*
 
 
 ### Table of contents
