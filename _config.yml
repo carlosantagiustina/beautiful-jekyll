@@ -5,22 +5,19 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://carlosantagiustina.github.io"
-baseurl: "carlosantagiustina.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/SNO"
 #baseurl: "/SNO"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-Carlo Santagiustina
+#Carlo Santagiustina
 
 # Short description of your site
 Welcome to the personal website of Carlo R. M. A. Santagiustina
 WORK IN PROGRESS
-
-
 # --- Navigation bar options --
 # List of links in the navigation bar
 navbar-links:
@@ -71,13 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "carlo.santagiustina@unive.it"
+  github: carlosantagiustina
+  twitter: santagiustina
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: carlosantagiustina
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
