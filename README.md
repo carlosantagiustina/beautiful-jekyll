@@ -4,9 +4,7 @@ Created using the Jekyll template by [Dean Attali](https://deanattali.com)*
 
 ### Table of contents
 
-- [Prerequisites](#prerequisites)
-- [Build your website in 3 steps](#build-your-website-in-3-steps)
-- [Add your own content](#add-your-own-content)
+- [Customize your website settings](#customize-content)
 - [Last important thing: YAML front matter ("parameters" for a page)](#last-important-thing-yaml-front-matter-parameters-for-a-page)
 - [Features](#features)
 - [Creating a User Page vs a Project Page](#creating-a-user-page-vs-a-project-page)
@@ -15,27 +13,8 @@ Created using the Jekyll template by [Dean Attali](https://deanattali.com)*
 - [FAQ and support](#faq-and-support)
 - [Credits and contributions](#credits)
 
-## Prerequisites
 
-- You need to have a GitHub account. If you don't have one, [sign up here](https://github.com/join) - it takes one minute. This is where your website will live - if you sign up with username `johnsmith` then your website will be `https://johnsmith.github.io`.
-- It would be helpful to understand what Markdown is and how to write it. Markdown is just a way to take a piece of text and format it to look a little nicer.  For example, this whole instruction set that you're reading is written in markdown - it's just text with some words being bold/larger/italicized/etc. I recommend taking 5 minutes to learn markdown [with this amazingly easy yet useful tutorial](https://markdowntutorial.com/).
-
-## Build your website in 3 steps
-
-Getting started is *literally* as easy as 1-2-3 :smile:
-Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps.
-
-![Installation steps](img/install-steps.gif)
-
-### 1. Fork this repository
-
-(Assuming you are on this page and logged into GitHub) Fork this repository by clicking the *Fork* button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
-
-### 2. Rename the repository to `<yourusername>.github.io`
-
-This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes.  To do this, click on *Settings* at the top (the cog icon) and there you'll have an option to rename.
-
-### 3. Customize your website settings
+## Customize your website settings
 
 Edit the `_config.yml` file to change all the settings to reflect your site. To edit the file, click on it and then click on the pencil icon (watch the video tutorial above if you're confused).  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further. Any line that begins with a pound sign (`#`) is a comment, and the rest of the lines are actual settings.
 
