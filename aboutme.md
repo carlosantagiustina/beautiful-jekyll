@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+image: /img/me.jpeg
 subtitle: a very short bio
 ---
 
