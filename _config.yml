@@ -119,7 +119,7 @@ share-links-active:
 #  opt-out: true
 
 # --- Comments --- #
-
+comments: true
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 # disqus: "carlosantagiustina"
 
