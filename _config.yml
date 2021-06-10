@@ -74,16 +74,16 @@ social-network-links:
   github: carlosantagiustina
   twitter: santagiustina
 #  reddit: yourname
-#  google-plus: +DeanAttali
+#  google-plus: +
   linkedin: carlo-santagiustina
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-  youtube: user/deanat78
+#  snapchat:
+#  instagram:
+#  youtube: user/
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam:
 #  twitch: yourname
 #  yelp: yourname
 
@@ -121,7 +121,7 @@ url-pretty: "https://carlosantagiustina.github.io/"  # eg. "deanattali.com/beaut
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+ disqus: "carlosantagiustina"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
@@ -133,7 +133,7 @@ url-pretty: "https://carlosantagiustina.github.io/"  # eg. "deanattali.com/beaut
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 140
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
